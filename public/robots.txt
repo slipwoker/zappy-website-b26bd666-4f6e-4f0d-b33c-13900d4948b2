@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urban-novus-b26bd666.zappy5.app/sitemap.xml

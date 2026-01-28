@@ -1,0 +1,56 @@
+# Urban Novus - אורבן נובוס — Generative Engine Optimization Map
+
+> A התחדשות עירונית ונדל"ן business.
+
+---
+
+## Pages
+
+### Home
+https://urban-novus-b26bd666.zappy5.app
+
+### Projects
+https://urban-novus-b26bd666.zappy5.app/projects
+
+### Process
+https://urban-novus-b26bd666.zappy5.app/process
+
+### Contact
+https://urban-novus-b26bd666.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://urban-novus-b26bd666.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://urban-novus-b26bd666.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://urban-novus-b26bd666.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Urban Novus - אורבן נובוס
+Urban Novus - אורבן נובוס is a business in the התחדשות עירונית ונדל"ן industry.
+
+## Target Audience
+- בעלי נכסים בערים
+- מתכנני ערים ובעלי תפקידים עירוניים
+- משקיעי נדל"ן
+- תושבים המתגוררים באזורים בעלי פוטנציאל לשיפור
+
+## Industry
+התחדשות עירונית ונדל"ן
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://urban-novus-b26bd666.zappy5.app/sitemap.xml
+- **Robots.txt**: https://urban-novus-b26bd666.zappy5.app/robots.txt
